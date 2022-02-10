@@ -12,3 +12,8 @@ Cargo.lock
 .idea/**
 
 .vscode/**
+
+
+# Added by cargo
+
+/target
